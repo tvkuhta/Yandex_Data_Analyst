@@ -3,3 +3,5 @@
 
 
 **Библиотеки:** pandas, plotly.express
+
+*графики plotly не сохраняют вывод*
