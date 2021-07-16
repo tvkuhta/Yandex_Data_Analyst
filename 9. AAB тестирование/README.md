@@ -13,3 +13,4 @@
 
 **Библиотеки:** pandas, numpy, plotly.express, scipy, seaborn, math
 
+*графики plotly не сохраняют вывод*
