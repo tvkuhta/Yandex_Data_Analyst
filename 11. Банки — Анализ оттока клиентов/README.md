@@ -3,4 +3,4 @@
 
 **Библиотеки:** pandas, numpy, plotly.express, scipy, seaborn, sklearn
 
-*графики plotly не сохраняют вывод
+*графики plotly не сохраняют вывод*
