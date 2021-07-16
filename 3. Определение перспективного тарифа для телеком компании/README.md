@@ -7,3 +7,4 @@
 
 **Библиотеки:** pandas, numpy, plotly.express, scipy
 
+*графики plotly не сохраняют вывод*
