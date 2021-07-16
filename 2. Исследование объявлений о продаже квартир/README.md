@@ -4,3 +4,5 @@
 
 
 **Библиотеки:** pandas, plotly.express, matplotlib.pyplot
+
+*графики plotly не сохраняют вывод*
